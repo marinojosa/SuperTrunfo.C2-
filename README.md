@@ -1,1 +1,3 @@
-# SuperTrunfo.C2-
+# SuperTrunfo.C2
+
+Parte lógica do projeto
